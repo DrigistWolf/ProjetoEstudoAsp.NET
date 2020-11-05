@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Linq;
 using System.Web.Mvc;
 
 namespace ProjetoEstudoAspNet.Controllers
@@ -34,6 +35,31 @@ namespace ProjetoEstudoAspNet.Controllers
         };
 
         // GET: Categorias
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Categoria categoria) 
+        {
+            categorias.Add(categoria);
+            categoria.CategoriaId = categorias.Select(m => m.CategoriaId).Max() + 1;
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Edit(long id) 
+        {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(Categoria categoria)
+        {
+            categorias.Remove(categorias.Where(
+            c => c.CategoriaId == categoria.CategoriaId)
+            .First());
+            categorias.Add(categoria);
+            return RedirectToAction("Index");
+        }
+
         public ActionResult Create()
         {
             return View();
@@ -43,5 +69,25 @@ namespace ProjetoEstudoAspNet.Controllers
         {
             return View(categorias);
         }
+
+        public ActionResult Details(long id) 
+        {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
+        }
+
+        public ActionResult Delete(long id)
+        {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+
+        public ActionResult Delete(Categoria categoria)
+        {
+            categorias.Remove(categorias.Where(c => c.CategoriaId == categoria.CategoriaId).First());
+            return RedirectToAction("Index");
+        }
+
     }
 }
