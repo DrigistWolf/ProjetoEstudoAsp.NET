@@ -82,8 +82,11 @@ C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNe
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csprojAssemblyReference.cache
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CoreCompileInputs.cache
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CopyComplete
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.dll
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.xml
