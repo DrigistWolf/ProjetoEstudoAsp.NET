@@ -31,8 +31,7 @@ namespace ProjetoEstudoAspNet.Controllers
 
         public ActionResult Index()
         {
-            return View(context.Fabricantes.OrderBy(
-            c => c.Nome));
+            return View(context.Fabricantes.OrderBy(c => c.Nome));
         }
         public ActionResult Create()
         {
@@ -102,10 +101,11 @@ namespace ProjetoEstudoAspNet.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(long id)
         {
-            Fabricante fabricante = context.Fabricantes.
-            Find(id);
+            Fabricante fabricante = context.Fabricantes.Find(id);
             context.Fabricantes.Remove(fabricante);
             context.SaveChanges();
+            TempData["Message"] = "Fabricante " +
+            fabricante.Nome.ToUpper() + " foi removido";
             return RedirectToAction("Index");
         }
     }

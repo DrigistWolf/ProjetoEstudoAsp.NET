@@ -90,3 +90,282 @@ C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNe
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.dll
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.xml
 C:\Users\Fran_\OneDrive\Área de Trabalho\ProjetoEstudoAspNet\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.dll.config
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.pdb
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\csc.exe
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\csc.exe.config
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\csc.rsp
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\csi.exe
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\csi.exe.config
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\csi.rsp
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.AppContext.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Console.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.IO.Compression.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Net.Http.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Net.Sockets.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.ValueTuple.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\vbc.exe
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\vbc.exe.config
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\vbc.rsp
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\EntityFramework.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\Newtonsoft.Json.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Net.Http.Formatting.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Helpers.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Http.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Http.WebHost.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Mvc.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Razor.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Webpages.Deployment.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Webpages.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Webpages.Razor.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\EntityFramework.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\Newtonsoft.Json.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Net.Http.Formatting.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Http.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Http.WebHost.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Razor.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Webpages.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Webpages.Deployment.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Webpages.Razor.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Helpers.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\System.Web.Mvc.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Http.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Razor.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csprojAssemblyReference.cache
+C:\Mvc_Estagio\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CoreCompileInputs.cache
+C:\Mvc_Estagio\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CopyComplete
+C:\Mvc_Estagio\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.dll
+C:\Mvc_Estagio\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.dll.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csc.exe
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csc.exe.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csc.rsp
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csi.exe
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csi.exe.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csi.rsp
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.AppContext.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Console.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Net.Http.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\vbc.exe
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\vbc.exe.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\vbc.rsp
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Newtonsoft.Json.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Net.Http.Formatting.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Helpers.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.WebHost.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Mvc.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Razor.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Newtonsoft.Json.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Net.Http.Formatting.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.WebHost.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Razor.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Helpers.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Mvc.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csprojAssemblyReference.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CopyComplete
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.pdb
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.dll.config
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\ProjetoEstudoAspNet.pdb
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csc.exe
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csc.exe.config
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csc.rsp
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csi.exe
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csi.exe.config
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\csi.rsp
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.AppContext.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Console.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.Compression.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Net.Http.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Net.Sockets.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.ValueTuple.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\vbc.exe
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\vbc.exe.config
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\vbc.rsp
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Newtonsoft.Json.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Net.Http.Formatting.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Helpers.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.WebHost.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Mvc.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Razor.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Deployment.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Razor.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\EntityFramework.SqlServer.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Newtonsoft.Json.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Net.Http.Formatting.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Http.WebHost.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Razor.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Deployment.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Webpages.Razor.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Helpers.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\System.Web.Mvc.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Http.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Razor.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csprojAssemblyReference.cache
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CoreCompileInputs.cache
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.csproj.CopyComplete
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.dll
+C:\Estagio\Trabalho_Mvc\ProjetoEstudoAspNet\obj\Debug\ProjetoEstudoAspNet.pdb
