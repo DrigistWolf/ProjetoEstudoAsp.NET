@@ -64,6 +64,22 @@ namespace ProjetoMVC.Controllers
             return View(fabricante);
         }
 
+        public ActionResult Details(long? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(
+                HttpStatusCode.BadRequest);
+            }
+            Fabricante fabricante = context.Fabricantes.
+            Find(id);
+            if (fabricante == null)
+            {
+                return HttpNotFound();
+            }
+            return View(fabricante);
+        }
+
         public ActionResult Delete(long? id)
         {
             if(id == null)
@@ -86,6 +102,7 @@ namespace ProjetoMVC.Controllers
             Fabricante fabricante = context.Fabricantes.Find(id);
             context.Fabricantes.Remove(fabricante);
             context.SaveChanges();
+            TempData["Message"] = "Fabricante " +fabricante.Nome.ToUpper() + " foi removido";
             return RedirectToAction("Index");
         }
 
