@@ -7,12 +7,13 @@ using ProjetoMVC.Models;
 
 namespace ProjetoMVC.Context
 {
-    public class EFContext : DbContext
+    public class EFContexts : DbContext
     {
        //public EFContext() : base("Asp_Net_MVC_CS") { }
-        public EFContext() : base("Asp_Net_MVC_CS")
+        public EFContexts() : base("Asp_Net_MVC_CS")
         {
-            Database.SetInitializer<EFContext>( new DropCreateDatabaseIfModelChanges<EFContext>());
+            //Database.SetInitializer<EFContext>( new DropCreateDatabaseIfModelChanges<EFContext>());
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<EFContexts>());
         }
         //Força a aplicação a funcionar mas mata as tabelas as recriando
 

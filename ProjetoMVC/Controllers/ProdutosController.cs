@@ -1,22 +1,26 @@
-﻿using ProjetoMVC.Context;
-using System;
-using System.Collections.Generic;
+﻿using System.Data.Entity;
 using System.Linq;
+using ProjetoMVC.Context;
 using System.Web.Mvc;
-using System.Data.Entity;
+using ProjetoMVC.Models;
 using System.Net;
 
 namespace ProjetoMVC.Controllers
 {
     public class ProdutosController : Controller
     {
-        private EFContext Context = new EFContext();
+        private readonly EFContexts Context = new EFContexts();
+        private Produto produto;
 
         // GET: Produtos
         public ActionResult Index()
         {
-            var produto = Context.Produtos.Include(c => c.Categoria).Include(f => f.Fabricante).OrderBy(n => n.Nome);
-            return View(produto);
+            //var produtos = Context.Produtos.Include(c => c.Categoria).Include(f => f.Fabricante).OrderBy(n => n.Nome);
+            var produtos = Context.Produtos.Include(c => c.Categoria).
+                                                                Include(f => f.Fabricante).OrderBy(n => n.Nome);
+
+            return View(produtos);
+            //return View(Context.Produtos.OrderBy(c => c.Nome));
         }
 
         // GET: Produtos/Details/5
@@ -28,45 +32,63 @@ namespace ProjetoMVC.Controllers
         // GET: Produtos/Create
         public ActionResult Create()
         {
+            ViewBag.CategoriaID = new SelectList(Context.Categorias.OrderBy(b => b.Nome), "CategoriaID", "Nome");
+           ViewBag.FabricanteID = new SelectList(Context.Fabricantes.OrderBy(b => b.Nome), "FabricanteID", "Nome");
             return View();
         }
 
         // POST: Produtos/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create(Produto produto)
         {
             try
             {
-                // TODO: Add insert logic here
-
+                Context.Produtos.Add(produto);
+                Context.SaveChanges();
                 return RedirectToAction("Index");
             }
             catch
             {
-                return View();
+                return View(produto);
             }
         }
 
         // GET: Produtos/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(long? id)
         {
-            return View();
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Produto produto = Context.Produtos.Find(id);
+            if (produto == null)
+            {
+                return HttpNotFound();
+            }
+            ViewBag.CategoriaId = new SelectList(Context.Categorias.OrderBy(b => b.Nome), "CategoriaId", "Nome", produto.CategoriaId);
+            ViewBag.FabricanteId = new SelectList(Context.Fabricantes.OrderBy(b => b.Nome), "FabricanteId", "Nome", produto.FabricanteId);
+            return View(produto);
         }
 
         // POST: Produtos/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        public ActionResult Edit(Produto produto)
         {
             try
             {
-                // TODO: Add update logic here
-
-                return RedirectToAction("Index");
+                if (ModelState.IsValid)
+                {
+                    Context.Entry(produto).State = EntityState.Modified;
+                    Context.SaveChanges();
+                    return RedirectToAction("Index");
+                }
+                return View(produto);
             }
             catch
             {
-                return View();
+                return View(produto);
             }
+
         }
 
         // GET: Produtos/Delete/5

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -7,13 +9,17 @@ namespace ProjetoMVC.Models
 {
     public class Produto
     {
+       
         public long? ProdutoId { get; set; }
         public string Nome { get; set; }
 
+      
         public long? CategoriaId { get; set; }
+
+        
         public long? FabricanteId { get; set; }
 
-        public Categoria Categoria { get; set; }
-        public Fabricante Fabricante { get; set; }
+        public  Categoria Categoria { get; set; }
+        public  Fabricante Fabricante { get; set; }
     }
 }

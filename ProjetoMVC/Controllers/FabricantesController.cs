@@ -1,24 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
+
+using ProjetoMVC.Context;
+using ProjetoMVC.Models;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Mvc;
-using ProjetoMVC.Context;
-using ProjetoMVC.Models;
 
 namespace ProjetoMVC.Controllers
 {
     public class FabricantesController : Controller
     {
-        private EFContext context = new EFContext();
+        private EFContexts context = new EFContexts();
 
         // GET: Fabricantes
         public ActionResult Index()
         {
-            return View(context.Fabricantes.OrderBy(
-                c => c.Nome));
+            return View(context.Fabricantes.OrderBy(c => c.Nome));
         }
 
         public ActionResult Create()
@@ -40,8 +38,7 @@ namespace ProjetoMVC.Controllers
             if(id == null)
             {
                 return new
-                    HttpStatusCodeResult(
-                    HttpStatusCode.BadRequest);
+                    HttpStatusCodeResult( HttpStatusCode.BadRequest);
             }
             Fabricante fabricante = context.Fabricantes.Find(id);
             if (fabricante == null)
