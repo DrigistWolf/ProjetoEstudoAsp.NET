@@ -1,11 +1,10 @@
-﻿
-
+﻿using Library.Cadastros;
 using ProjetoMVC.Context;
-using ProjetoMVC.Models;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Web.Mvc;
+using System.Xml.Linq;
 
 namespace ProjetoMVC.Controllers
 {
@@ -84,8 +83,8 @@ namespace ProjetoMVC.Controllers
                 return new HttpStatusCodeResult(
                     HttpStatusCode.BadRequest);
             }
-            Fabricante fabricante = context.Fabricantes.Find(id);
-            if(fabricante == null)
+            Fabricante fabricante = context.Fabricantes.Where(f => f.FabricanteID == id).Include("Produtos.Categoria").First();
+             if (fabricante == null)
             {
                 return HttpNotFound();
             }

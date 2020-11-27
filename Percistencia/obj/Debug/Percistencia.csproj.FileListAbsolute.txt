@@ -1,0 +1,14 @@
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\Percistencia.dll.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\Percistencia.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\Percistencia.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\EntityFramework.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\Library.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\EntityFramework.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\bin\Debug\Library.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\obj\Debug\Percistencia.csprojAssemblyReference.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\obj\Debug\Percistencia.csproj.CoreCompileInputs.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\obj\Debug\Percistencia.csproj.CopyComplete
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\obj\Debug\Percistencia.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Percistencia\obj\Debug\Percistencia.pdb

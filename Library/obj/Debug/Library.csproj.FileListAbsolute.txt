@@ -1,0 +1,6 @@
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Library\bin\Debug\Library.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Library\bin\Debug\Library.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Library\obj\Debug\Library.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Library\obj\Debug\Library.pdb

@@ -1,0 +1,14 @@
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Servico.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Servico.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Library.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Percistencia.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\EntityFramework.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Library.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Percistencia.pdb
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\Percistencia.dll.config
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\bin\Debug\EntityFramework.xml
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\obj\Debug\Servico.csprojAssemblyReference.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\obj\Debug\Servico.dll
+C:\Users\Fran_\OneDrive\Área de Trabalho\Aspnet\ProjetoEstudoAsp.NET\Servico\obj\Debug\Servico.pdb
